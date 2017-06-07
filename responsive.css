@@ -1,0 +1,267 @@
+#header {
+	width: 95%;
+}
+
+#imgs {
+	width: 100%;
+}
+
+#logo {
+	padding-right: 0px;
+}
+
+#MenuBarra {
+	width: 100%;
+	height: auto;
+	margin-left: 0px;
+	margin-right: 0px;	
+	border-radius: 0px;
+}
+
+#MenuBarra ul {
+	width: 100%;
+	height: auto;
+}
+
+#divBusca {
+	display: none;
+}
+
+#MenuBarra li {
+	width: 15%;
+}
+
+#divBusca {
+	
+}
+
+#body {
+	width: 95%;
+	height: auto;
+}
+
+#body2 {
+	width: 95%;
+	height: 750px;
+}
+
+#rodapé {
+	width: 100%;
+	height: auto;
+	border-radius: 0px;
+	}
+
+
+#footer h6 {
+	margin-top: 310px;
+}	
+
+
+#footer {
+	width: 95%;
+	height: auto;
+}
+
+#hidden {
+	display: none;
+}
+
+#txtapoia {
+	display: none;
+}
+
+
+#apoiadores {
+	display: none;
+}
+
+#last-img {
+	display: none;
+}
+
+@media screen and (max-width: 550px) {
+	#body {
+		margin-bottom: 50px;
+		width: 95%;
+		height: auto;
+		min-height: 315px;
+	}
+
+	#body2 {
+		height: 750px;
+	}
+
+	#imgs {
+
+		height: auto;
+		width: 80%;
+		left: 0px;
+	}
+		
+	}
+
+	#MenuBarra li {
+		width: 25%;
+	}
+
+	#CURSOS {	
+		width: 45%;
+		height: auto;	
+		margin: 0px auto;			
+		margin-top: 10px;
+		display:inline-table;
+	}
+
+	#CURSOS2 {
+		width: 45%;
+		margin: 0px auto;
+		margin-top:10px;
+		padding: 0px;
+		display:inline-table;
+	}
+
+	#CURSOS .chamada {
+		background: #fff;
+	    width: 150px;
+	    height: 150px;
+	    float: left;
+	    margin-top: 30px;
+	    margin-right: 0px;
+	    text-align: center;
+	    
+	}
+
+	#CURSOS .chamada img {
+		margin: 0px;
+	}
+
+	#CURSOS2 .chamada img {
+		margin: 0px;
+	}
+
+	#CURSOS2 .chamada {
+		background: #fff;
+	    width: 150px;
+	    height: 150px;
+	    margin-top: 30px;
+	    margin-right: 0px;
+	    text-align: center;	    	    
+	    
+	}
+
+	#materia-box {
+		width: 100%;
+	}
+
+	#vest-box {
+		height: auto;
+	}
+
+	#vest-box0 img {
+		margin: 0px;
+		width: 100%;
+	}
+
+	#sec-box {
+		width: 100%;
+	}
+
+	#sec-box p {
+		width: 100%;
+	}
+
+	#sec-box2 {
+		display: none;
+	}
+
+	#aluno-box {
+		width: 95%;
+		height: auto;
+	}
+
+	#aluno-box2 {
+		width: 95%;
+	}
+
+	#aluno-box2 select {
+		width: 100%;
+	}
+
+	#aluno-box2 input {
+		width: 100%;
+		height: 25px;
+	}
+
+	#estagio-box {
+		margin: 0px;
+	}
+
+	#estagio-box2 {
+		margin: 0px;
+	}
+
+	#contato-box0 {
+		margin: 0px 50px;
+	}
+
+	#contato-box {
+		width: 98%;
+
+	}
+
+	#contato-box2 {
+		width: 95%;
+
+	}
+
+	#contato-box2 textarea {
+		width: 90%;
+	}
+
+	#como-box {
+		margin: 0px;
+		width: 100%;
+	}
+
+	#como-box iframe {
+		width: 97%;
+	}
+
+	#my-slider .ism-slide-0 .ism-caption-0 {
+		position: initial;
+	}
+
+	#my-slider .ism-slide-2 .ism-caption-0 {
+		position: initial;
+	}
+
+	#trabalhos-academicos {
+		margin-top: 15px;
+		width: auto;
+		padding: 0px;
+	}
+
+	#hidden {
+	display: none;
+	}
+
+	#txtapoia {
+		display: none;
+	}
+
+
+	#apoiadores {
+		display: none;
+	}
+
+	#last-img {
+		display: none;
+	}
+
+	#body3 {
+		width: 100%;
+	}
+
+
+
+}
